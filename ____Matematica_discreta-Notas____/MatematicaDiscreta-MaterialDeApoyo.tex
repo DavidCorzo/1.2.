@@ -1,0 +1,80 @@
+\documentclass[openany]{book}
+\author{David Gabriel Corzo Mcmath}
+\title{Matemática Discreta Aplicada \\ \normalsize Material de apoyo}
+\date{2019-08-03 02:29}
+% % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % %
+\usepackage[margin = 1in]{geometry}
+\usepackage{graphicx}
+\usepackage{fontenc}
+\usepackage{pdfpages}
+\usepackage[spanish]{babel}
+\usepackage{amsmath}
+\usepackage{amsthm}
+\usepackage[utf8]{inputenc}
+\usepackage{enumitem}
+\usepackage{mathtools}
+\usepackage{import}
+\usepackage{xifthen}
+\usepackage{pdfpages}
+\usepackage{transparent}
+\usepackage{color}
+\usepackage{fancyhdr}
+\usepackage{lipsum}
+\usepackage{sectsty}
+\usepackage{titlesec}
+\usepackage{calc}
+\usepackage{lmodern}
+\usepackage{xpatch}
+\usepackage{blindtext}
+\usepackage{bookmark}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\input{settings.tex}
+% % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % %
+\begin{document}
+\maketitle
+\tableofcontents
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\part{Cortos}
+\chapter{Corto \# 1}
+\includepdf[pages=-,pagecommand={\thispagestyle{plain}}]{pdf/EC_1.pdf}
+
+\chapter{Corto \# 2}
+% \includepdf[pages=-,pagecommand={\thispagestyle{plain}}]{}
+
+\chapter{Corto \# 3}
+\includepdf[pages=-,pagecommand={\thispagestyle{plain}}]{pdf/EC_3.pdf}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\part{Resumenes}
+\chapter{Sumarry on spiral on discrete mathematics}
+\includepdf[pages=-,pagecommand={\thispagestyle{plain}}]{pdf/Sumarry.pdf}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\part{Parciales}
+\includepdf[pages=-,pagecommand={\thispagestyle{plain}}]{pdf/P_1.pdf}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\part{Simulacros y repasos}
+\chapter{Repaso simulacro de parcial}
+\includepdf[pages=-,pagecommand={\thispagestyle{plain}}]{pdf/RS_1.pdf}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\part{Material de apoyo}
+\chapter{Formulario de equivalencias lógicas y reglas de inferencia}
+\includepdf[pages=-,pagecommand={\thispagestyle{plain}}]{pdf/F.pdf}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%\
+\part{Hojas de trabajo}
+\chapter{Hoja de trabajo \#1}
+\includepdf[pages=-,pagecommand={\thispagestyle{plain}}]{pdf/T_1.pdf}
+
+
+\end{document}

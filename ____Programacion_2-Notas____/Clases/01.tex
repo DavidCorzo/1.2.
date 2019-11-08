@@ -1,0 +1,64 @@
+\section{Unity como objetos}
+\begin{enumerate}
+    \item \emph{\textbf{Definición de ``Inspector":} contiene los atributos públicos que son modificables por el usuario.}
+    \item \emph{\textbf{Definición de ``Métodos públicos":} Son los atributos que se ven o son accesibles por el usuario.}
+    \item \emph{\textbf{Definición de ``Métodos privados":} Son atributos que no son accesibles por el usuario.}
+    \item Collider en unity: permite dar características físicas a un objeto, si no se tiene esto activado el objeto es como transparente.
+    \item Por ejemplo un objeto perro:
+        \begin{center}
+        \begin{tabular}{ | p{5cm} | p{5cm} | }
+         \hline
+         Perro & gato \\
+         \begin{itemize}
+            \item $\Rightarrow$ Raza
+            \item $\Rightarrow$ Color 
+            \item $\Rightarrow$ Tamaño 
+            \item $\Rightarrow$ Peso    
+            \item $\Rightarrow$ Edad 
+            \item $\Rightarrow$ \# Patas
+            \item Call $\Rightarrow$ habar(); $\Rightarrow$ ``Woof''
+        \end{itemize} & 
+        \begin{itemize}
+            \item $\Rightarrow$ Raza
+            \item $\Rightarrow$ Color 
+            \item $\Rightarrow$ Tamaño  
+            \item Call $\Rightarrow$ hablar(); $\Rightarrow$ ``Miau''
+        \end{itemize}
+         \\ 
+        \multicolumn{2}{|c|}{Como hay similaridades entre los objeetos cremos una clase ``animal''} \\ 
+        \hline
+        \multicolumn{2}{|c|}{Hagamos una definición general de animal y le enviamos atributos de cara uno a la clase perro y clase gato y hereda} \\
+         \hline
+        \end{tabular}
+        \end{center}
+        \begin{center}
+        \begin{tabular}{ | p{5cm} | p{5cm} |  }
+         \hline
+         \multicolumn{2}{|c|}{Clase animal;} \\
+         \hline
+         Clase perro: & Clase gato: \\ 
+         \hline
+         $\Rightarrow$ Método Schitzu & $\Rightarrow$  Método egipcio \\
+         \hline
+         $\Rightarrow$ Método Salchicha & $\Rightarrow$ Método gato común \\  
+         \hline
+        \end{tabular}
+        \end{center}
+        
+        
+        \item En Unity se hereda a todos los objetos de la clase game object.
+        \item Mover el sphere a main camera:
+            \begin{itemize}
+                \item Los valores de la clase padre los adoptan las clases hijas.
+            \end{itemize}
+        \item Para crear un padle:
+            \begin{itemize}
+                \item Crear un ``new element''
+                \item insertar un cubo, modificar el parámetro del paddle para hacerlo más un rectángulo.
+                \item Modificar el pad para que el usuario pueda observar el movimiento.
+                \item Agregamos un comportamiento a la pelota, $\Rightarrow$ Crear un script de C\#, \emph{\textbf{(Paréntesis ``using, include, import'':}en programació se refiere a importar código de otro archivo\textbf{)}}
+                \item Behavior usar polimorfismo, puedo incluir los métodos particulares para definiciones particulares.
+                \item \emph{\textbf{Definición de ``dis":} cuando se usa un ``dis'' se hace referencia al mismo objeto que está en definición.}
+            \end{itemize}
+        
+\end{enumerate}

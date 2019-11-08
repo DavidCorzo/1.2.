@@ -1,0 +1,87 @@
+\section{ECMA Script - Katherine Garcia}
+\begin{enumerate}
+    \item JavaScript, el lenguaje de JavaScript se define bajo un estándar de ECMA, ECMAScript se creó para tener un estándar común entre los navegadores.
+    \item Son un set de reglas, detalles y pautas que describen cómo es un lenguaje script.
+    \item Las versiones: 
+    \item Son transpilados los lenguajes ECMA, compila el código y lo transcribe a funciones que sí funcionan en ECMAScript, generalmente se transpila a una versión de ECMAScript en una versión.
+    \item Se pueden mandar parametros por default, dentro de una función puede tomar un valor y fuera puede tomar otro.
+    \item Es un set de standards.
+    \item Transpilar, \emph{\textbf{Definición de ``transpilación":} es traducir código que no es complient con el ECMA standard.}
+    \item ``By reading the ECMAScript specification, you learn how to create a scripting language. By reading the JavaScript documentation, you learn how to use a scripting language.''
+    \item En python hay su propio ECMA compliance, es PEP, escribir en PEP es como vanila python.
+    \item Hay muchos lenguajes tienen estos estándares, \emph{\textbf{Interesante:} ECMAScript versión 6, introdujo arrow functions, para los que vienen de un contexto como C\#}.
+\end{enumerate}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Weakly typed / Strongly typed}
+\begin{enumerate}
+    \item Strong: ``siempre que que un objeto pase de una función de llamada una a función llamada, su tipo debe ser compatible con el tipo declarado e la función llamada''.
+    \item \emph{\textbf{Ejemplo: }Java, Pascal, C*, and Lisp.}
+    \item \emph{\textbf{Interesante:} En C si se utiliza punteros uno usa la memoria directamente de la computadora por ende se puede ver una característica de un weakly typed.}
+    \item Weak: ``En lenguaje no cheque que los tipos de datos y solo asume que sí va a comportar como le dice el developer''.
+    \item \emph{\textbf{Ejemplo: }JavaScript, Perl.} 
+    \item Dynamic Static, un lenguaje strongly typed  tienden a ser Static, los weakly typed tienden a ser dynamic. No son synonimos, 
+    
+    \item Característica básicas de strongly typed:
+        \begin{itemize}
+            \item Type safety
+            \item Memory safety 
+            \item Static type checking
+        \end{itemize}
+
+    \item Aprender typescript asíncrono.
+    \item \emph{\textbf{Interesante:} Codling, go, }
+\end{enumerate}
+
+\begin{itemize}
+    \item Statically typed: no es restrictivo.
+    \item Python es un hybrido.
+    
+    \item Dynamycally Strongly typed: restrictivo en qué tipos de datos se pueden operar.
+    \item Usualmente los lenguajes compilados en algún nivel tienden a ser strongly typed.
+\end{itemize}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Asynchronous - Call Stack}
+\begin{enumerate}
+    \item Asynchronous: 
+        \begin{itemize}
+            \item Varias operaciones están ocurriendo en threads separados.
+            \item JavaScript, funciona en base a una naturaleza síncrona pero se puede volver asíncrono.
+        \end{itemize}
+
+    \item Call stack: 
+        \begin{itemize}
+            \item Es una parte del event loop, está diciendo que funciones o variables están metidos en el stack.
+            \item ¿Asínrono y paralelo? asíncrono , \textbf{no blockea}, paralelo \textbf{todo se ejecuta al mismo tiempo.}
+            \item Call stack $\neq$ quee.
+            \item Un stack es apilar algo, se puede ver como un to-do list de funciones. 
+            \item LIFO, Last in first out.
+        \end{itemize}
+\end{enumerate}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Event loop - Alejandra Lemus}
+\begin{enumerate}
+    \item El single thread en V8.
+    \item Cuando no estamos usando el browser sino node.js podemos usar librerías de C.
+    \item JavaScript si es un single thread, es un single threads, si tenemos ocho cores JavaScript solo va a utilizar uno, sin embargo se puede programar para que se haga una ejecución más inteligente.
+    \item Event loop revisa si hay algo en el call stack para poder ejecutarlo, el event loop revisa el call-stack y si no hay nada ve el quee para meterlo al call stack.
+    \item Verlo como un reloj, revisa cada ciclo de lo que está en el quue y en el stack.
+    \item Promesas, eran para evitar hacer un montón de call-backs.
+    \item Call-back hell, es un montón de call-backs.
+    \item ``Programar en promesas''
+    \item \emph{\textbf{Definición de ``promesas":} es una forma más bonita de hacer callbacks.}
+    \item \emph{\textbf{Interesante:} cosas como un thread se queda esperando a otro thread es un asunto de ponerle atención a multiples variables, cosas como un thread blockea a otro aun que sea asíncrono, en Java se puede trabajar con single threads.}
+    \item \emph{\textbf{Interesante:} GoldRoutine, uno puede mandar multiples threads pero requieren de un orquestador.}    
+\end{enumerate}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Love-my-movies}
+\begin{itemize}
+    \item Usen JS en el proyecto.
+    \item \emph{\textbf{Ojo: considerar lo siguiente...} usen JavaScript para las alertas y para las cosas del client side.}
+\end{itemize}
+
+
+\rule{16cm}{1pt}

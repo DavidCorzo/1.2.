@@ -1,0 +1,105 @@
+\section{Usar el kanban}
+\begin{itemize}
+    \item Con esto se puede registrar en GitLab la actividad hasta el momento.
+    \item Metodolgía ágil.
+\end{itemize}
+
+\section{Peculiaridades de Jinja}
+\begin{enumerate} 
+    \item \emph{\textbf{(Paréntesis ``historial'':}en bash o en shell se puede buscar el historial con el comando ``history''\textbf{)}}
+    \item Permite no replicar código
+    \item usar para un diccionario \{\%for students in ages.items()\%\}, posteriormente \{\%endfor\%\}, jinja intera en los elementos.
+    \item Como jinja no tiene el control sobre los elementos se usa \{\{loop.index\}\}.
+    \item Los parentesis con \% es para if's, fors por ejemplo.
+    \item Puedo usar JS en mi página.
+\end{enumerate}
+
+
+\section{Gitlab}
+\begin{itemize}
+    \item ``git checkout master'', me saca del branch actual.
+\end{itemize}
+
+\section{Buenas prácticas de programación}
+Agregar requirements.txt, if I add the flask library add the version.
+\rule{16cm}{1pt}\newline 
+\begin{itemize}
+    \item Correr ``python -m pip install -r requirements.txt'' 
+\end{itemize}
+\rule{16cm}{1pt}\newline 
+
+\section{Dockerfile \& .dockerignore}
+\subsection{Dockerfile}
+Correr: docker build -rn -f ``Dockerfile -t <nombre\_de\_archivo>:latest''\newline 
+\rule{16cm}{1pt}
+\textbf{EN EL Dockerfile}\newline 
+\begin{verbatim}
+    FROM python:3-alphine 
+
+    WORKDIR / <app>
+    COPY requirements.txt
+    
+    RUN pip intall -r requirements.txt 
+
+    COPY . ./
+    
+    CMD ["Python","<app>.py>"]
+
+    EXPOSE 5000 
+\end{verbatim}
+\rule{16cm}{1pt}\newline 
+
+
+\subsection{.dockerignore}
+No incluye los archivos especificados, \newline 
+Ejemplo:\newline 
+\rule{16cm}{1pt}\newline 
+\textbf{EN EL .dockerignore}
+\begin{verbatim}
+    .vscode
+    Dockerfile 
+    README.md 
+    *.pyc
+\end{verbatim}
+\rule{16cm}{1pt}\newline 
+
+
+\section{.gitlab-ci.yml}
+Sirve para compilar, para hacer pruebas dentro de GitLab, \emph{Citación:``no aprendan GitLabCI"}, \emph{\textbf{Definición de ``CI":} Continous Integration}.
+\begin{itemize}
+    \item \emph{\textbf{Definición de ``except master":} ejecutará el job en no master.}
+    \item \emph{\textbf{Definición de ``only master":} ejecutará el job \textbf{solo} en master.}
+    \item \emph{\textbf{Definición de ``CI":} permite probar e identificar fallas, es una metodología realmente para integración continual de mi código.}
+\end{itemize}
+\rule{16cm}{1pt}\newline 
+\textbf{EN EL .gitlab-ci.yml}
+\begin{verbatim}
+    #Jenskinsfile
+    #CircleCI
+    #Travis CI 
+
+    stages:
+        -test 
+        -build 
+        -deploy
+    
+    <insertar un template de git lab>
+\end{verbatim}
+\rule{16cm}{1pt}\newline 
+
+\section{Anuncios}
+Invitación al innovation del entreprenour. \newline 
+Martes 1 octubre conferencia de Docker. \newline 
+Peach competition.
+
+
+\section{Posterior a la clase investigar}
+\begin{enumerate}
+    \item html
+    \item css
+    \item bootstrap 
+    \item navigation bar 
+    \item jinja commands
+    \item CI 
+    \item Dockerfile 
+\end{enumerate}

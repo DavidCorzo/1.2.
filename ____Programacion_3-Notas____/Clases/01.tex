@@ -1,0 +1,38 @@
+\section{API's \& sus peculiaridades}
+\begin{itemize}
+\item \textbf{Nos preguntamos:} ¿Por que razón puedo ver el XML en el browser? Es por que estamos usando el método GET.
+\item AJAX no permite no tiene la versitabilidad de parser. Este es el defecto de beautiful Soup, para el tipo de interacciónes con AJAX se necesita usar elenioum.
+\end{itemize}
+
+\section{Flask}
+\begin{itemize}
+    \item Flase es un framework, no es como Django que uno es obligado a usar cirtas cosas oblgatoriamente, \emph{\textbf{Definición de ``framework":} es un set de herramientas.}
+    \item Usualmente utiliza menos memoria usar ``from <librería> import <funciones o clases a usar>''.
+    \item Está corriendo en un puerto.
+    \item \emph{\textbf{Definición de ``Socket":} la combinación de una IP  y un puerto}.
+    \item Con hostname:
+    \begin{verbatim}
+        DAVIDCORZO@DESKTOP-73D7DE2 /cygdrive/c/Users/DAVIDCORZO
+        $ hostname
+            DESKTOP-73D7DE2
+    \end{verbatim}
+    
+    \item app.run(host$=$"0.0.0.0",port=55) el host= 0.0.0.0. permite ver por medio de la red aplicaciones corriendo en otras computadoras.
+    \item \emph{\textbf{Definición de ``puerto":} permite cambiar el socket, tiene un máximo de 65,535 puertos}.
+    \item Debug igual True, uno de los beneficios que permite es correr la app sin tener que iterar el ciclo guardar,correr,ver\_resultados, pero el chiste es debugging.
+    \item En python ``@'' es un decorador, es una manera implicia de llamar funciones.
+    \item Cambiémos la ruta con el decorador a ``@app.route("/alumnos)''
+    \item En flask hay dos formas de render: \emph{\textbf{Definición de ``Server side rendering":} fui a la base de datos y la respuesta solo al sabe mi aplicación, soy capaz por ende de imprimir información ingresada en mi aplicación.} \emph{\textbf{Definición de ``client side rendering":} este render lo hace el browser.}
+    \item Lenguages de renderización, pintar de manera bonita en el browser.
+    
+    \item In jinja2 se referencia a una variable asi: ``\{\{ <variable> \}\}'', para hacer un for loop \{\% for i in algo \%\}.
+\end{itemize}
+
+\section{Averiguar después}
+\begin{enumerate}
+    \item decorators ``@''
+    \item CSS Bootstrap
+    \item jinja2 en Flask 
+    \item Server side render, client side render.
+    \item Leer Redis.
+\end{enumerate}

@@ -1,0 +1,63 @@
+\BOOKMARK [0][-]{chapter.1}{2019-09-17}{}% 1
+\BOOKMARK [1][-]{section.1.1}{API's \046 sus peculiaridades}{chapter.1}% 2
+\BOOKMARK [1][-]{section.1.2}{Flask}{chapter.1}% 3
+\BOOKMARK [1][-]{section.1.3}{Averiguar despu\351s}{chapter.1}% 4
+\BOOKMARK [0][-]{chapter.2}{2019-09-19}{}% 5
+\BOOKMARK [1][-]{section.2.1}{Usar el kanban}{chapter.2}% 6
+\BOOKMARK [1][-]{section.2.2}{Peculiaridades de Jinja}{chapter.2}% 7
+\BOOKMARK [1][-]{section.2.3}{Gitlab}{chapter.2}% 8
+\BOOKMARK [1][-]{section.2.4}{Buenas pr\341cticas de programaci\363n}{chapter.2}% 9
+\BOOKMARK [1][-]{section.2.5}{Dockerfile \046 .dockerignore}{chapter.2}% 10
+\BOOKMARK [2][-]{subsection.2.5.1}{Dockerfile}{section.2.5}% 11
+\BOOKMARK [2][-]{subsection.2.5.2}{.dockerignore}{section.2.5}% 12
+\BOOKMARK [1][-]{section.2.6}{.gitlab-ci.yml}{chapter.2}% 13
+\BOOKMARK [1][-]{section.2.7}{Anuncios}{chapter.2}% 14
+\BOOKMARK [1][-]{section.2.8}{Posterior a la clase investigar}{chapter.2}% 15
+\BOOKMARK [0][-]{chapter.3}{2019-09-24}{}% 16
+\BOOKMARK [1][-]{section.3.1}{Invitado especial 8 de octubre}{chapter.3}% 17
+\BOOKMARK [1][-]{section.3.2}{Buscar posterior a la clase}{chapter.3}% 18
+\BOOKMARK [0][-]{chapter.4}{2019-10-01}{}% 19
+\BOOKMARK [1][-]{section.4.1}{Se trabaj\363 en el projecto para el pr\363ximo martes}{chapter.4}% 20
+\BOOKMARK [0][-]{chapter.5}{2019-10-08-Clase de UX}{}% 21
+\BOOKMARK [1][-]{section.5.1}{Diferencias entre UX/UI}{chapter.5}% 22
+\BOOKMARK [2][-]{subsection.5.1.1}{UX}{section.5.1}% 23
+\BOOKMARK [2][-]{subsection.5.1.2}{UI}{section.5.1}% 24
+\BOOKMARK [1][-]{section.5.2}{Proceso}{chapter.5}% 25
+\BOOKMARK [1][-]{section.5.3}{Aplicaci\363n a dise\361o en la vida real}{chapter.5}% 26
+\BOOKMARK [1][-]{section.5.4}{Buenos y malos ejemplos de UX}{chapter.5}% 27
+\BOOKMARK [1][-]{section.5.5}{Trabajando con Project manajers y developers}{chapter.5}% 28
+\BOOKMARK [1][-]{section.5.6}{Herramientas}{chapter.5}% 29
+\BOOKMARK [1][-]{section.5.7}{Nos preguntamos: \277Se puede programar y dise\361ar?}{chapter.5}% 30
+\BOOKMARK [1][-]{section.5.8}{Ventajas de dise\361ar y programar}{chapter.5}% 31
+\BOOKMARK [1][-]{section.5.9}{Nos preguntamos: \277Qu\351 debemos hacer para programar?}{chapter.5}% 32
+\BOOKMARK [1][-]{section.5.10}{Tres pilares de csss}{chapter.5}% 33
+\BOOKMARK [1][-]{section.5.11}{Nos preguntamos: \277Qu\351 es responsive Web Design?}{chapter.5}% 34
+\BOOKMARK [1][-]{section.5.12}{Resources}{chapter.5}% 35
+\BOOKMARK [2][-]{subsection.5.12.1}{U-en-l\355nea}{section.5.12}% 36
+\BOOKMARK [2][-]{subsection.5.12.2}{Inspiraci\363n}{section.5.12}% 37
+\BOOKMARK [0][-]{chapter.6}{2019-10-10-Clase-Node.js}{}% 38
+\BOOKMARK [1][-]{section.6.1}{Node.js}{chapter.6}% 39
+\BOOKMARK [1][-]{section.6.2}{Historia de JavaScript}{chapter.6}% 40
+\BOOKMARK [1][-]{section.6.3}{Simplicity}{chapter.6}% 41
+\BOOKMARK [1][-]{section.6.4}{Razones para usar node.js}{chapter.6}% 42
+\BOOKMARK [1][-]{section.6.5}{Problemas con node.js \046 JavaScript}{chapter.6}% 43
+\BOOKMARK [1][-]{section.6.6}{Nos preguntamos: \277Hay que usar node.js?}{chapter.6}% 44
+\BOOKMARK [1][-]{section.6.7}{C\363mo aprender node.js}{chapter.6}% 45
+\BOOKMARK [1][-]{section.6.8}{Consideraciones}{chapter.6}% 46
+\BOOKMARK [0][-]{chapter.7}{2019-10-24}{}% 47
+\BOOKMARK [1][-]{section.7.1}{Levantar Redis}{chapter.7}% 48
+\BOOKMARK [1][-]{section.7.2}{JavaScript}{chapter.7}% 49
+\BOOKMARK [1][-]{section.7.3}{Traducci\363n de Python \040JavaScript.}{chapter.7}% 50
+\BOOKMARK [1][-]{section.7.4}{Homework}{chapter.7}% 51
+\BOOKMARK [0][-]{chapter.8}{2019-10-29-Presentaci\363n de ECMAScript, weakly typed / strongly typed, asynchronous / call stack, event loop: }{}% 52
+\BOOKMARK [1][-]{section.8.1}{ECMA Script - Katherine Garcia}{chapter.8}% 53
+\BOOKMARK [1][-]{section.8.2}{Weakly typed / Strongly typed}{chapter.8}% 54
+\BOOKMARK [1][-]{section.8.3}{Asynchronous - Call Stack}{chapter.8}% 55
+\BOOKMARK [1][-]{section.8.4}{Event loop - Alejandra Lemus}{chapter.8}% 56
+\BOOKMARK [1][-]{section.8.5}{Love-my-movies}{chapter.8}% 57
+\BOOKMARK [0][-]{chapter.9}{2019-10-31-Ejemplos de JS promesas y anidaci\363n}{}% 58
+\BOOKMARK [1][-]{section.9.1}{Call-stack, Clase por Giovany}{chapter.9}% 59
+\BOOKMARK [0][-]{chapter.10}{2019-11-05}{}% 60
+\BOOKMARK [1][-]{section.10.1}{Discusi\363n de love my robots}{chapter.10}% 61
+\BOOKMARK [0][-]{chapter.11}{2019-11-07}{}% 62
+\BOOKMARK [1][-]{section.11.1}{Express}{chapter.11}% 63

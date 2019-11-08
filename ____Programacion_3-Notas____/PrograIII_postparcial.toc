@@ -1,0 +1,64 @@
+\babel@toc {spanish}{}
+\contentsline {chapter}{\numberline {1}2019-09-17}{5}{chapter.1}% 
+\contentsline {section}{\numberline {1.1}API's \& sus peculiaridades}{5}{section.1.1}% 
+\contentsline {section}{\numberline {1.2}Flask}{5}{section.1.2}% 
+\contentsline {section}{\numberline {1.3}Averiguar despu\IeC {\'e}s}{6}{section.1.3}% 
+\contentsline {chapter}{\numberline {2}2019-09-19}{7}{chapter.2}% 
+\contentsline {section}{\numberline {2.1}Usar el kanban}{7}{section.2.1}% 
+\contentsline {section}{\numberline {2.2}Peculiaridades de Jinja}{7}{section.2.2}% 
+\contentsline {section}{\numberline {2.3}Gitlab}{7}{section.2.3}% 
+\contentsline {section}{\numberline {2.4}Buenas pr\IeC {\'a}cticas de programaci\IeC {\'o}n}{7}{section.2.4}% 
+\contentsline {section}{\numberline {2.5}Dockerfile \& .dockerignore}{8}{section.2.5}% 
+\contentsline {subsection}{\numberline {2.5.1}Dockerfile}{8}{subsection.2.5.1}% 
+\contentsline {subsection}{\numberline {2.5.2}.dockerignore}{8}{subsection.2.5.2}% 
+\contentsline {section}{\numberline {2.6}.gitlab-ci.yml}{8}{section.2.6}% 
+\contentsline {section}{\numberline {2.7}Anuncios}{9}{section.2.7}% 
+\contentsline {section}{\numberline {2.8}Posterior a la clase investigar}{9}{section.2.8}% 
+\contentsline {chapter}{\numberline {3}2019-09-24}{11}{chapter.3}% 
+\contentsline {section}{\numberline {3.1}Invitado especial 8 de octubre}{11}{section.3.1}% 
+\contentsline {section}{\numberline {3.2}Buscar posterior a la clase}{11}{section.3.2}% 
+\contentsline {chapter}{\numberline {4}2019-10-01}{13}{chapter.4}% 
+\contentsline {section}{\numberline {4.1}Se trabaj\IeC {\'o} en el projecto para el pr\IeC {\'o}ximo martes}{13}{section.4.1}% 
+\contentsline {chapter}{\numberline {5}2019-10-08-Clase de UX}{15}{chapter.5}% 
+\contentsline {section}{\numberline {5.1}Diferencias entre UX/UI}{15}{section.5.1}% 
+\contentsline {subsection}{\numberline {5.1.1}UX}{15}{subsection.5.1.1}% 
+\contentsline {subsection}{\numberline {5.1.2}UI}{15}{subsection.5.1.2}% 
+\contentsline {section}{\numberline {5.2}Proceso}{15}{section.5.2}% 
+\contentsline {section}{\numberline {5.3}Aplicaci\IeC {\'o}n a dise\IeC {\~n}o en la vida real}{16}{section.5.3}% 
+\contentsline {section}{\numberline {5.4}Buenos y malos ejemplos de UX}{16}{section.5.4}% 
+\contentsline {section}{\numberline {5.5}Trabajando con Project manajers y developers}{16}{section.5.5}% 
+\contentsline {section}{\numberline {5.6}Herramientas}{17}{section.5.6}% 
+\contentsline {section}{\numberline {5.7}\textbf {Nos preguntamos:} \IeC {\textquestiondown }Se puede programar y dise\IeC {\~n}ar?}{17}{section.5.7}% 
+\contentsline {section}{\numberline {5.8}Ventajas de dise\IeC {\~n}ar y programar}{17}{section.5.8}% 
+\contentsline {section}{\numberline {5.9}\textbf {Nos preguntamos:} \IeC {\textquestiondown }Qu\IeC {\'e} debemos hacer para programar?}{17}{section.5.9}% 
+\contentsline {section}{\numberline {5.10}Tres pilares de csss}{17}{section.5.10}% 
+\contentsline {section}{\numberline {5.11}\textbf {Nos preguntamos:} \IeC {\textquestiondown }Qu\IeC {\'e} es responsive Web Design?}{17}{section.5.11}% 
+\contentsline {section}{\numberline {5.12}Resources}{18}{section.5.12}% 
+\contentsline {subsection}{\numberline {5.12.1}U-en-l\IeC {\'\i }nea}{18}{subsection.5.12.1}% 
+\contentsline {subsection}{\numberline {5.12.2}Inspiraci\IeC {\'o}n}{18}{subsection.5.12.2}% 
+\contentsline {chapter}{\numberline {6}2019-10-10-Clase-Node.js}{19}{chapter.6}% 
+\contentsline {section}{\numberline {6.1}Node.js}{19}{section.6.1}% 
+\contentsline {section}{\numberline {6.2}Historia de JavaScript}{19}{section.6.2}% 
+\contentsline {section}{\numberline {6.3}Simplicity}{20}{section.6.3}% 
+\contentsline {section}{\numberline {6.4}Razones para usar node.js}{20}{section.6.4}% 
+\contentsline {section}{\numberline {6.5}Problemas con node.js \& JavaScript}{21}{section.6.5}% 
+\contentsline {section}{\numberline {6.6}\textbf {Nos preguntamos:} \IeC {\textquestiondown }Hay que usar node.js?}{22}{section.6.6}% 
+\contentsline {section}{\numberline {6.7}C\IeC {\'o}mo aprender node.js}{22}{section.6.7}% 
+\contentsline {section}{\numberline {6.8}Consideraciones}{22}{section.6.8}% 
+\contentsline {chapter}{\numberline {7}2019-10-24}{23}{chapter.7}% 
+\contentsline {section}{\numberline {7.1}Levantar Redis}{23}{section.7.1}% 
+\contentsline {section}{\numberline {7.2}JavaScript}{23}{section.7.2}% 
+\contentsline {section}{\numberline {7.3}Traducci\IeC {\'o}n de Python $\Rightarrow $ JavaScript.}{23}{section.7.3}% 
+\contentsline {section}{\numberline {7.4}Homework}{23}{section.7.4}% 
+\contentsline {chapter}{\numberline {8}2019-10-29-Presentaci\IeC {\'o}n de ECMAScript, weakly typed / strongly typed, asynchronous / call stack, event loop: }{25}{chapter.8}% 
+\contentsline {section}{\numberline {8.1}ECMA Script - Katherine Garcia}{25}{section.8.1}% 
+\contentsline {section}{\numberline {8.2}Weakly typed / Strongly typed}{25}{section.8.2}% 
+\contentsline {section}{\numberline {8.3}Asynchronous - Call Stack}{26}{section.8.3}% 
+\contentsline {section}{\numberline {8.4}Event loop - Alejandra Lemus}{26}{section.8.4}% 
+\contentsline {section}{\numberline {8.5}Love-my-movies}{27}{section.8.5}% 
+\contentsline {chapter}{\numberline {9}2019-10-31-Ejemplos de JS promesas y anidaci\IeC {\'o}n}{29}{chapter.9}% 
+\contentsline {section}{\numberline {9.1}Call-stack, Clase por Giovany}{29}{section.9.1}% 
+\contentsline {chapter}{\numberline {10}2019-11-05}{31}{chapter.10}% 
+\contentsline {section}{\numberline {10.1}Discusi\IeC {\'o}n de love my robots}{31}{section.10.1}% 
+\contentsline {chapter}{\numberline {11}2019-11-07}{33}{chapter.11}% 
+\contentsline {section}{\numberline {11.1}Express}{33}{section.11.1}% 

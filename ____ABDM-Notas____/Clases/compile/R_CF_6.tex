@@ -1,0 +1,361 @@
+\documentclass{article}
+\author{David Gabriel Corzo Mcmath}
+\title{Contabilidad Financiera - Capítulo 6}
+\date{2019-08-30 20:57}
+% % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % %
+\usepackage[margin = 1in]{geometry}
+\usepackage{graphicx}
+\usepackage{fontenc}
+\usepackage[spanish]{babel}
+\usepackage{amsmath}
+\usepackage{amsthm}
+\usepackage[utf8]{inputenc}
+\usepackage{enumitem}
+\usepackage{mathtools}
+\usepackage{import}
+\usepackage{xifthen}
+\usepackage{pdfpages}
+\usepackage{transparent}
+\usepackage{color}
+% % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % %%
+
+\begin{document}
+\maketitle
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Principales diferencias entre una empresa de servicios y una comercializadora de mercancías}
+\begin{itemize}
+    \item Las dos organizaciones económicas lucrativas sobresalientes son las:
+    \begin{itemize}
+        \item Prestadoras de servicios
+        \item Las comercializadoras de mercancías 
+    \end{itemize}
+    Dado a este hecho la contabilidad para cada una \textbf{es diferente}
+\end{itemize}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\subsection{Diferencias en el estado de resultados (empresas prestadoras de servicios vs. empresas comercializadoras de mercancías)}
+
+\begin{enumerate}
+
+    \item Diferencias de \textbf{ingresos}:
+    \begin{center}
+    \begin{tabular}{ | p{5cm} | p{9cm} | }
+     \hline
+     Empresa de servicios & Empresa comercial\\
+     \hline
+     Se utiliza la cuenta ingresos para registrar ingresos & Se utiliza la cuenta de \textbf{ventas}, al sustraerle las cuentas de \textbf{descuentos} y la cuenta de \textbf{devoluciones o bonificaciones} se obtiene la venta neta. \\ 
+     \hline
+    \end{tabular}
+    \end{center}
+
+
+    \item Costos y gastos orientado a costo de ventas:
+    \begin{center}
+    \begin{tabular}{ | p{5cm} | p{9cm} | }
+     \hline
+     Empresa de servicios & Empresa comercial\\
+     \hline
+    No hay ya que no trabajan con nada más que con nada tangible & Se registra en la cuenta de \textbf{costo de ventas.}\\ 
+
+     \hline
+    \end{tabular}
+    \end{center}
+    
+    
+    
+    \item Costos y gastos orientado a compras:
+    \begin{center}
+    \begin{tabular}{ | p{5cm} | p{9cm} | }
+    \hline
+    Empresa de servicios & Empresa comercial\\
+    \hline
+    No hay nada que comprar por que no se dedica a nada tangible  & Se registra en cuentas como \textbf{Compras, Fletes sobre compras, descuentos sobre compras, devoluciones y bonificaciones sobre compras} la suma de estas cuentas es la \textbf{compra neta} \\ 
+    \hline
+    \end{tabular}
+    \end{center}                                                                                
+    
+    
+    
+    \item Costos y gastos orientado a gastos:
+    \begin{center}
+    \begin{tabular}{ | p{5cm} | p{9cm} | }
+    \hline
+    Empresa de servicios & Empresa comercial\\
+    \hline
+    Las cuentas de gastos se presentan trás haber registrado los ingresos, después se calcula la utilidad & Los gastos se registran en las cuentas de \textbf{gastos de venta, gastos de administración \& gastos financieros}, \newline  utilidad bruta = (Ventas netas - costo de ventas) - gastos \\ 
+
+    \hline
+    \end{tabular}
+    \end{center}
+    
+    
+    \item Inventario:
+    \begin{center}
+    \begin{tabular}{ | p{5cm} | p{9cm} | }
+    \hline
+    Empresa de servicios & Empresa comercial\\
+    \hline
+    No existe inventario para esta empresa & Se registra la mercancía disponible en la cuenta de \textbf{inventario.}\\ 
+
+    \hline
+    \end{tabular}
+    \end{center}
+
+\end{enumerate}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Registro de transacciones en empresas comercializadoras}
+\begin{itemize}
+    \item Metodología de estudio, analizar, registrar, clasificar los movimientos en el \textbf{mayor general}, enfoque en las siguientes cuentas:
+    \begin{itemize}
+        \item Intentario de mercancías 
+        \item Compras y cuentas relacionadas
+        \item Ventas y cuentas relacionadas 
+    \end{itemize}
+\end{itemize}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Inventario de mercancías}
+\begin{itemize}
+    \item En la cuenta \textbf{Inventario de mercancías} se registran las sobras del inventario que no se vendió al final de un periodo.
+    \item El inventario \textbf{final} del periodo = El inventario \textbf{inicial} del siguiente periodo.
+    \item La cuenta \textbf{Inventario de mercancías} es un \textbf{activo circulante}.
+\end{itemize}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Sistema de registro de inventario}
+Hay dos sistemas de contabilidad válidos para registrar inventario en la contabilidad.
+\begin{itemize}
+    \item Sistema perpetuo: los datos están actualizados, se puede saber qué tantas mercancías hay en existencia en cualquier momento. En este sistema solo se necesita la cuenta \textbf{inventario de mercancías} y cuando se compra inventario esta aumenta y cuando se vende disminuye. \emph{\textbf{(Paréntesis: No se utilizan cuentas como fletes,devoluciones,compras,bonificaciones.}\textbf{)}}
+    \item Sistema periódico: No mantiene datos actualizados de las mercancías en existencia, se actualiza la información al final del periodo y las transacciones se registran en las cuentas \textbf{compras, fletes, devoluciones o bonificaciones.}
+\end{itemize}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Costo de mercancía vendida y utilidad bruta}
+Para el método periódico se utiliza la siguiente fórmula para determinar el costo de la mercancía vendida.
+\begin{itemize}
+\item Para determinar el costo de las mercancías disponibles: \newline 
+\begin{tabular}{ | c |}
+\hline
++ Compras brutas \\
++ Fletes sobre compras \\ 
+- Descuentos sobre compras \\ 
+- Devoluciones y bonificaciones sobre compras  \\  
+\hline
+= Costo de las mercancías disponibles\\ 
+\hline
+\end{tabular}
+
+\item Para determinar el costo de ventas: \newline 
+\begin{tabular}{ | c |}
+\hline
++ Costo de mercancías disponibles\\
+- Inventario Final \\
+\hline  
+= Costo de ventas \\ 
+\hline
+\end{tabular}
+
+\item Para determinar utilidad bruta y utilidad neta: \newline 
+\begin{tabular}{ | c |}
+\hline
+ + Costo de mercancías vendida\\
+ - Ventas netas \\ 
+\hline 
+= Utilidad bruta \\  
+- Otros gastos del periodo \\ 
+\hline
+= Utilidad neta \\ 
+\hline
+\end{tabular}
+
+\end{itemize}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Compras y cuentas afines}
+\begin{itemize}
+    \item Compras:
+    \begin{itemize}
+        \item En el periódico el costo de mercancía adquirida se registra en la cuenta de \textbf{compras}, \emph{\textbf{(Paréntesis: La cuenta de compras es solo para mercancía que se va a vender, si se compra un activo para la operación de negocio se registra en otra cuenta del activo.}\textbf{)}}
+        \item En el perpetuo se registra el costo de mercancía adquirida en la cuenta de \textbf{inventario}.
+        \item Al ser vendida la mercancía se clasifica en la cuenta de costo de ventas y al cerrar el periodo se compara con la contrapartida \textbf{la cuenta de pérdidas y ganancias}.
+        \item Tras haber documentado las transacciones en el \textbf{diario general} se registra en el  \textbf{mayor general}.
+        \item Ejemplo pg. 5
+    \end{itemize}
+        
+    \item Devoluciones sobre compras:
+    \begin{itemize}
+        \item Si por alguna razón la mercancía no viene en condiciones aptas para venderse se contacta el proveedor y en el sistema perpetuo se carga a proveedores, se abona a devoluciones y bonificaciones sobre compras; en el sistema perpetuo solo se registra en la cuenta de inventarios.
+        \item La cuenta de devoluciones y bonificaciones sobre compra es una cuenta diseñada para la deducción de costo de mercancía en caso venga defectuosa y cierra al finalizar el periodo con su contra cuenta de \textbf{pérdidas y ganancias}.
+        \item Ejemplo pg. 6
+    \end{itemize}
+
+
+    
+    \item Descuentos sobre compras:
+    \begin{itemize}
+        \item Para incentivar a que los clientes paguen pronto sus deudas se hace un descuento de la deuda si se cancela en un intervalo de tiempo después de la factura.
+        \item Estos descuentos se registran en la cuenta \textbf{descuentos sobre compras} en el sistema periódico.
+        \item Ejemplo pg. 7
+        \item Condiciones de crédito:
+        \[
+          \underbrace{2}_{\text{Descuento}} / \underbrace{\text{10}}_{\text{Días}}, \underbrace{\text{n}}_{\text{Neto}} / \underbrace{30}_{\text{11-30 días}}
+        \]
+    \end{itemize}
+\end{itemize}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Gastos adicionales que forman parte del producto}
+Hay gastos no claramente incurridos en la venta del producto que deben de ser contemplados en el precio al que se venderá la mercancía.
+\begin{itemize}
+    \item Fletes: aparecen en factura como ``condiciones de embarque'' o  ``condiciones de envió'', se registra esta transacción usando el método periódico en la cuenta \textbf{fletes sobre compras}, en el sistema perpetuo en la cuenta de \textbf{inventarios}:
+    \begin{itemize}
+        \item Libre A Bordo (LAB) punto de embarque: el comprador debe pagar los costos de envío (el comprador registra en las cuentas correspondientes).
+        \item Libre A Bordo (LAB) punto de destino: el vendedor debe pagar todos los costos de envió (el comprador no debe realizar ningún registro ya que todo lo absorbe el vendedor).
+        \item Ejemplo pg. 8
+    \end{itemize} 
+    Los pagos del embarque se registran en los dos sistemas en la cuenta \textbf{fletes sobre ventas}, esto es un gasto y se registra posteriormente en los gastos generales en el estado de resultados.
+
+
+    
+    \item Seguros:
+    \begin{itemize}
+        \item Se contrata un seguro que cuesta dinero por ende es un gasto que debe de estar contemplado en el precio final del producto.
+        \item Se contrata un seguro para reducir incertidumbre,
+    \end{itemize}
+
+    
+    \item Impuestos de importación.
+    \begin{itemize}
+        \item Se hace otro gasto adicional el de impuestos y aranceles, este gasto también debe de estar contemplado en el precio final del producto.
+    \end{itemize}
+\end{itemize}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Ventas y cuentas afines}
+\begin{itemize}
+    \item Ventas:
+    \begin{itemize}
+        \item Registra ventas en los dos sistemas se hacen de la siguiente forma: 
+        \begin{itemize}
+            \item Periódico: cuando se vende mercancía se hace un cargo a bancos o clientes, si es a crédito se abona a \textbf{ventas}
+            \item Perpetuo: de la misma manera que el periódico, el perpetuo hace un registro adicional ese es el cargo a costo de ventas y abono a la cuenta de inventario. 
+        \end{itemize}
+        Ejemplo pg.203, \emph{\textbf{(Paréntesis} Si la empresa vende un activo que no estaba destinado para la venta se debe registrar como un cargo a bancos o cuentas por cobrar y se abona a la cuenta de activo que se vende.\textbf{)}}
+    \end{itemize}
+    
+    \item Devoluciones sobre ventas: En las dos se registra la devolución a la cuenta de \textbf{devoluciones y bonificaciones sobre ventas}, y se disminuye posteriormente la cuenta de clientes.
+    \begin{itemize}
+        \item Periódico: no se registran ingresos de las mercancías por las devoluciones. Solo se registra la en la cuenta especial \textbf{devoluciones y bonificaciones sobre ventas} y se hace un cargo a \textbf{clientes}.
+        \item Perpetuo: sí se debe registrar el ingreso de las mercancías devueltas en la cuenta \textbf{inventarios} y su contrapartida \textbf{costo de ventas}; después se registra la cuenta especial de \textbf{devoluciones y bonificaciones sobre ventas} para conocer en cualquier momento la cantidad de productos devueltos, y se hace un cargo a clientes. 
+        \item Ejemplo pág. 204 \emph{\textbf{(Paréntesis:}Las devoluciones son costosas y representan un gasto extraordinario, de ocurrir muy amenudo se debe tomar medidas para reducir las devoluciones.\textbf{)}} 
+    \end{itemize}
+        
+        \item Descuentos sobre ventas: se hace el mismo procedimiento que el de descuentos sobre compras solo que esta vez en la cuenta \textbf{descuentos sobre ventas}, esta es una deducción de la cuenta ``ventas''. Esta cuenta nace a partir de haber incentivado descuentos por pronto pago desde el punto de vista del que vende.
+
+        
+        \item Descuentos comerciales: Los descuentos comerciales se hacen para incentivar al comprador a comprar más, generalmente a la compra al por mayor se le hace un descuento por este motivo, y estos \textbf{no se registran en ninguna cuenta especial} se hace el registro a \textbf{ventas} por el precio de venta como tal (precio - descuento) y esto se hace en \textbf{los dos sistemas de inventario}.
+\end{itemize}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Clasificación de cuentas de ingresos y gastos}
+Principales clasificaciones de ingresos y gastos en el estado de resultados:
+\begin{enumerate}
+    \item Ingresos ordinarios: incluyen \textbf{todos los ingresos derivados a partir de la venta de un servicio o la prestación de un servicio.}
+    \item Costo de ventas: costo de producir todos los artículos vendidos.
+    \item Gastos generales: se dividen en dos,
+    \begin{itemize}
+        \item Gastos de venta: todo gasto que se relacione con la función de la venta, (salarios del personal, comisiones sobre ventas, publicidad, alquileres, etcétera).
+        \item Gastos de administración: Los gastos que se relacionen con la administración (ya sea salario de oficinistas, alquiler, servicios públicos, etcétera).
+    \end{itemize}
+    \item Otros ingresos y gastos: ingresos o gastos que no se relacionen con las principales actividades del negocio. (Ejemplo intereses, ganancias o pérdidas por venta de activos fijos.) 
+    \item Resultado integral de financiamiento : representan el total de ingresos o  gastos por interéses (ganancias o pérdidas de los mismos asi mismo como la fluctuación cambiaria).
+    \item Participación en los resultados de subsidiarias no consolidadas y asociadas: subsidios  
+    \item Partidas no ordinarias: Son aquellos gastos que no son incurridos frecuentemente como pérdidas por catástrofes naturales por ejemplo.
+\end{enumerate}
+
+\begin{center}
+\begin{tabular}{ | p{0.5cm} | p{9cm} | }
+ \hline
+ \multicolumn{2}{|c|}{Estado de resultados}\\
+ \hline
+ &  Ventas o ingresos netos \\ 
+ \hline
+ - & Costo de ventas \\ 
+ \hline
+ = & Utilidad o pérdidas bruta \\ 
+ \hline
+ - & Gastos generales (de venta y de administración) \\ 
+ \hline
+ $\pm$ & Otros ingresos y gastos\\
+ \hline
+ $\pm$ & Resultado integral de financiamiento \\ 
+ \hline
+ $\pm $ & Partidas no ordinarias \\ 
+ \hline
+ = & Utilidad o pérdida antes de impuestos a la utilidad \\ 
+ \hline
+ - & Impuestos a la utilidad \\ 
+ \hline
+= & Utilidad antes de operaciones discontinuas \\ 
+\hline
+- & Operaciones discontinuas \\ 
+\hline
+= & Utilidad o pérdida neta \\ 
+\hline 
+\end{tabular}
+\end{center}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Procedimiento a cierre contable}
+\begin{itemize}
+    \item El ciclo contable se realiza en cuatro procesos básicos, y estos se siguen independientemente de qué tipo de empresa sea (servicio o comercializadora), a excepción de el último, el \textbf{cierre} ahí si varían \emph{\textbf{(Paréntesis:}difieren en el cierre por que las empresas comercializadoras tienen dos sistemas de llevar inventario el perpetuo y el periódico.\textbf{)}}: 
+    \begin{enumerate}
+        \item Registro de transacciones 
+        \item Ajustes 
+        \item Estados financieros 
+        \item Cierre 
+    \end{enumerate}
+    
+    \item A partir de la elaboración de los estados financieros se emite una \textbf{balanza de comprobación ajustada.}
+\end{itemize}
+
+\begin{enumerate}
+    \item Cierre de las cuentas con saldo acreedor: Se deja en \textbf{cero} aquellas cuentas de resultado con \textbf{saldo acreedor}.
+    \item Cierre de las cuentas con saldo deudor: Se debe de dejar en \textbf{cero} las cuentas de resultado con \textbf{saldo deudps}.
+    \item Baja del inventario inicial: Su objetivo es dar de baja al inventario inicial.
+    \begin{itemize}
+        \item Perpetuo: Solo se realiza si existen diferencias entre el inventario registrado y el inventario real.
+        \item Periódico: Se agarra la cuenta \textbf{pérdidas y ganancias} y su contra partida el \textbf{inventario}.
+    \end{itemize}
+    
+    \item Alta del inventario final: 
+    \begin{itemize}
+        \item Perpetuo: Solo se realiza si existen diferencias entre el inventario registrado y el inventario real.
+        \item Periódico: Se agarra la cuenta \textbf{inventario} y su contra partida el \textbf{pérdidas y ganancias}. (al revés)
+    \end{itemize}
+
+    
+    \item Cierre de la cuenta de dividendos: se realiza el cierre de la misma manera en los dos sistemas de inventario, [cuentas son \textbf{utilidades retenidas y su contrapartida la de dividendos}].
+
+    
+    \item Cierre de la cuenta de pérdidas y ganancias: se realiza el cierre de la misma manera en los dos sistemas, [cuentas con \textbf{pérdidas y ganancias  y su contra partida utilidades retenidas}].
+\end{enumerate} 
+
+Tras haber hecho el registro a los asientos de cierre, se clasifican en el mayor general, luego se elabora la balanza de comprobación al cierre.
+
+
+
+
+
+
+
+
+
+
+
+\end{document}

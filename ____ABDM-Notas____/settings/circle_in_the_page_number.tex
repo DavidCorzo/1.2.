@@ -1,0 +1,24 @@
+% \newcommand*\circled[1]{\tikz[baseline=(char.base)]{
+%             \node[shape=circle,fill=gray!50,inner sep=2pt] (char) {#1};}}
+
+% % header style
+% \pagestyle{fancy}
+% \fancyhf{}
+% \fancyhead[EL]{\nouppercase\leftmark}
+% \fancyhead[OR]{\nouppercase\rightmark}
+% \fancyfoot[C]{\circled{\thepage}}
+\newcommand*\circled[1]{\tikz[baseline=(char.base)]{
+            \node[shape=circle,fill=gray!50,inner sep=2pt] (char) {#1};}}
+
+% header style
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[EL]{\nouppercase\leftmark}
+\fancyhead[OR]{\nouppercase\rightmark}
+\fancyfoot[C]{\circled{\thepage}}
+
+\fancypagestyle{plain}{%
+  \fancyhf{}
+  \fancyfoot[C]{\circled{\thepage}}
+  \renewcommand{\headrulewidth}{0pt}
+}

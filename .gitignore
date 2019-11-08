@@ -1,0 +1,9 @@
+# Ignore everything
+*.synctex.gz
+*.gz 
+*.synctex
+*.pdf
+
+
+
+

@@ -1,0 +1,282 @@
+\documentclass{article}
+\author{David Gabriel Corzo Mcmath}
+\title{Contabilidad financiera capítulo 10}
+\date{2019-10-01 19:59}
+% % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % %
+\usepackage[margin = 1in]{geometry}
+\usepackage{graphicx}
+\usepackage{fontenc}
+\usepackage[spanish]{babel}
+\usepackage{amsmath}
+\usepackage{amsthm}
+\usepackage[utf8]{inputenc}
+\usepackage{enumitem}
+\usepackage{mathtools}
+\usepackage{import}
+\usepackage{xifthen}
+\usepackage{pdfpages}
+\usepackage{transparent}
+\usepackage{color}
+% % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % %%
+
+\begin{document}
+\maketitle
+
+\section{Introducción}
+\begin{itemize}
+    \item Activos fijos: activos con vida útil de más de un año, son utilizados para las operaciones de un negocio para obtener ingresos.
+    \item \emph{\textbf{Observación: }Los terrenos son activos fijos con duración ilimitada, no se deprecian}
+\end{itemize}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Ciclo de adquisiciones y bajas de activos fijos}
+\begin{itemize}
+    \item Los activos fijos son adquiridos con financiamiento a largo  plazo (como préstamos a largo plazo o incluso aportaciones de los socios).
+\end{itemize}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Concepto del activo fijo}
+\begin{itemize}
+    \item Activos fijos es equivalente a decir \emph{propiedades, planta y equipo}, y son biene tangibles.
+    \item Objetivos de los activos fijos:
+        \begin{itemize}
+            \item Uso para beneficio a la sociedad.
+            \item La producción de articulos para la venta.
+            \item La presentación de servicios de la entidad para el público general (recepción de clientes).
+        \end{itemize}
+\end{itemize}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Determinación del costo de los activos fijos}
+\begin{itemize}
+    \item Deben registrarse al costo de adquisición
+    \item El costo de adquisición comprende cualquier costo que contribuya al presente estado del activo, por ejemplo si complo un terreno y lo restauro para mi negocio eso conformaría parte de el costo de adquisición.
+    \item Componentes del costo de adquisición:
+        \begin{itemize}
+            \item Impuestos indirectos, aranceles
+            \item Costos relacionados con las condiciones presentes del activo para que pueda operar de la forma prevista por la gerencia.
+            \item Costos de desmantelamiento y de restauración.
+        \end{itemize}
+\end{itemize}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Vida útil y el valor residual}
+\begin{itemize}
+    \item NIC 16, comprende la vida útil un activo fijo:
+        \begin{enumerate}
+            \item El periodo el que se espera utilizar el activo depreciable por parte de la entidad.
+            \item El número de unidades de producción o similares que se espera obtener de dicho periodo por parte de la entidad.
+        \end{enumerate}
+    
+    \item El valor residual: es una estimación de cuánto vale un activo fijo al finalizar su vida útil, es útil saber esta estimación ya que si se vende posteriormente se debe registrar en la cuenta correspondiente. \emph{\textbf{Ojo: considerar lo siguiente...} un activo no puede depreciarse más allá de su valor residual}.
+
+    \item  NIC 16: El valor residual  de un activo es el \textbf{importe estimado} que la entidad podría obtener actualmente por desapropiarse del elemento, después de deducir los costos estimados por tal desapropiación, si el activo ya hubiera alcanzado la antigüedad y las demás condiciones esperadas al término de su vida útil. 
+    \item La estimación se determina respecto a varias variables, y se debe determinar para registrar la depreciación del periodo.
+\end{itemize}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%    
+\section{Depreciación de activos fijos}
+\begin{itemize}
+    \item Se registran los gastos de depreciación atribuibles al periodo en la cuenta \textbf{depreciación}, esta corresponde al monto de cada periodo. \emph{\textbf{Ojo: considerar lo siguiente...}  la depreciación total a lo largo de la vida útil del activo no puede ir más allá del valor de recuperación}
+    \item Métodos lineales:
+        \begin{enumerate}
+            \item Método de línea recta $\Rightarrow$ se deprecia igual para todos los periodos.
+            \item Método de unidades producidas $\Rightarrow$ se distribuye de acuerdo con el volumen de la producción. 
+        \end{enumerate}
+    
+    \item Métodos acelerados:
+        \begin{enumerate}
+            \item Doble saldo decreciente $\Rightarrow$ Mayor los primeros años.
+            \item Suma de años dígitos $\Rightarrow$ mayor los primeros años.
+        \end{enumerate}
+\end{itemize}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Métodos de depreciación lineales:}
+\subsection{Métodos de depreciación lineal}
+\begin{itemize}
+    \item Se supone que el activo fijo se deprecia igual en todos los periodos.
+    \item Considere la siguiente fórmula para calcular la depreciación lineal:
+        \begin{center}
+            \[
+              \frac{\text{Costo} - \text{Valor de desecho}}{\text{Años de vida útil}} = \text{Depreciación anual} 
+            \]
+        \end{center}
+\end{itemize}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{Depreciación por unidades producidas}
+\begin{itemize}
+    \item Se basa en el número total de unidades que se producirán, total de horas que se trabajará, número de km que recorrerá.
+        \begin{center}
+            \[
+                \frac{\text{Costo} - \text{Valor de desecho}}{\text{Unidades de uso, hora ó kilómetros}} = \text{Depreciación por unidad, hora, km} 
+              \]
+        \end{center}
+\end{itemize}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Métodos de depreciación acelerada:}
+\subsection{Método del doble saldo decreciente}
+\begin{itemize}
+    \item Se asume que el gasto por depreciación es más los primeros años y disminuye (desacelera) al finalizar su vida útil, en el primer año se duplica la depreciación que se calcularía en el método de la línea recta:
+        \begin{center}
+           \[
+             \frac{100\% = 20\% \text{x} 2 }{\text{Años de vida útil}} = \text{Porcentaje anual}
+           \]
+        \end{center}
+\end{itemize}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{Métodos de la suma de años dígitos}
+\begin{itemize}
+    \item Se usan fracciones, cada fracción usa la suma de los años como denominador y el número de años de vida útil restante como numerado.
+        \begin{center}
+           \[
+             \frac{\text{Número de años de vida restante}}{\text{Suma de años de la vida útil}}
+           \]
+        \end{center}
+\end{itemize}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Registro contable}
+\begin{itemize}
+    \item Las dos situaciones en las que debemos registrar depreciación:
+        \begin{enumerate}
+            \item Al final del periodo contable.
+            \item Cuando se vende o da de baja a un activo fijo.
+        \end{enumerate}
+    
+    \item En ambos casos las cuentas a utilizar son:
+        \begin{itemize}
+            \item \textbf{Gastos por depreciación} en el debe.
+            \item \textbf{Depreciación acumulada del activo} en el haber, reduce los activos fijos.
+        \end{itemize}
+\end{itemize}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Presentación en el balance general}
+\begin{itemize}
+    \item La cuenta depreciación acumulada se presenta en el balance genral en el área de activos fijos.
+\end{itemize}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Reparaciones versus adaptaciones y mejoras}
+\begin{itemize}
+    \item La reparación rutinaria de un activo fijo se registra como \textbf{gastos generales del negocio} o \textbf{gastos de mantenimiento}, \emph{\textbf{Ojo: considerar lo siguiente...} con que se mantenga un activo no se aumenta la vida útil original.}, \emph{\textbf{Ejemplo:}cambiar un engranaje, reparar fugas, etc.}
+    \item Reparaciones mayores o restauraciones o mejoras, que sí aumentan significativamente la vida útil, capacidad o ambas, sí se cargan a la cuenta del activo, a estas se les conoce como adaptaciones o mejoras, innovaciones, se recomienda registrar las mejoras en una cuenta aparte para mantener un registro mejor hecho.
+    \item Al proceso de añadir costos al valor histórico del activo se le conoce como \textbf{capitalización de costos}.
+\end{itemize}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Baja de activos fijos}
+\begin{itemize}
+    \item Cuando un activo se vende, entrega a cambio de otro activo o deshecharlos se \textbf{les da de baja.}
+    \item Cuando se da de baja a un activo se elimina de libros la depreciación acumulada y el activo en sí.
+    \item Solo bajo las siguientes situaciones se le da de baja a un activo, sin importar la circunstancia particular:
+        \begin{enumerate}
+            \item Se obtiene ganancia.
+            \item Se produce pérdida.
+            \item No se produce ganancia ni pérdida.
+        \end{enumerate}
+    
+    \item Considere la siguiente fórmula para determinar los casos anteriormente presentados:
+        \begin{align*}
+            \text{Costo} - \text{Depreciación acumulada} & = \text{Valor en libros} \\ 
+            \text{Valor de venta} > \text{valor en libros} & =  \text{Ganancia} \\ 
+            \text{Valor de venta} < \text{valor en libros} & =  \text{Ganancia} \\             
+            \text{Valos de venta} = \text{Valor en libros} = \text{ventas al costo} \\ 
+        \end{align*}
+    
+    \item Cuando se da de baja un activo fijo se debe ajustar el saldo en libros, eso $\Rightarrow$ cargar la depreciación de la fecha de la compra a la fecha cuya se le está dando de baja al activo mediante la asignación de importes al mes completo más cercano.
+    \item \emph{\textbf{Ojo: considerar lo siguiente...} Si se adquirió el activo en el décimo-quinto día del mes no se tomará en cuenta para calcular la depreciación. }
+    
+    \item \emph{\textbf{Definición de ``Valor en libros":} representa el valor de un activo en los registros de la empresa y no el precio del mercado}.
+    \item Recomendación: ver 3 ejemplos pg.343
+\end{itemize}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Intercambio de activo fijo}
+\begin{itemize}
+    \item Al adquirir un nuevo activo fi jo, por lo general se entrega el antiguo como pago parcial y a cambio se recibe un crédito para rebajar el costo del nuevo. 
+    \item Existen dos tipos:
+        \begin{enumerate}
+            \item El método de reconocimiento de la utilidad o pérdida o métoddo del predio de la lista. Básicamente utilizar este método si se obtuvo alguna ganancia por el nuevo activo.
+                \begin{enumerate}
+                    \item Se produce utilidad cuando la bonificación por la entrega es mayor que el valor en libros del activo entregado a cambio.
+                    \item Hay pérdida cuando la bonificación es menor que el valor en libros del activo entregado a cambio.
+                \end{enumerate}
+            
+            \item Método de no reconocimiento de la utilidad o pérdida: cualquier diferencia entre la bonificación por la entrega y el valor en libros del activo se lleva al costo del nuevo activo. Use este si no hay ganancia por el nuevo activo o hay pérdida.
+        \end{enumerate}
+\end{itemize}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Deterioro de valor de los activos fijos}
+\begin{itemize}
+    \item Las NIF establecen que los activos deben de ser revisados por deterioro para registrar y proceder a reconocer una pérdida por deterioro del valor. 
+    \item NIC 36
+\end{itemize}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{El efecto de la inflación en propiedades planta y equipo}
+\begin{itemize}
+    \item Se pretende mantener sincronizados los valores de los activos fijos con la inflación (que tengan el mismo poder adquisitivo).
+    \item Métodos de actualización:
+        \begin{itemize}
+            \item Índice general de precios: consiste en convertir las unidades monetarias reportadas en los estados fi nancieros sobre una base histórica, en unidades de poder adquisitivo de la fecha de elaboración de los estados fi nancieros más recientes, se realizan calculos de poder adquisitivo, procedimiento es el siguiente: (Índice general de precios al consumidor(IGPC)), \emph{\textbf{Observación: }el IGPC es un indicador de inflación}.
+                \begin{center}
+                   \[
+                     \frac{\text{IGPC de la fecha de elaboración de los estados financieros}}{\text{IGPC de la fecha de adquisición de los activos}} = \text{Actualización en poder adquisitivo}
+                   \]
+                \end{center}
+            \item Valor actual: pretende incluir en los estados financieros valores más apegados a la realidad, tanto en el renglón de activos fi jos como en el de inventarios. 
+                \begin{center}
+                   \[
+                     \text{Valor neto de reemplazo} - \text{Valor en libros} = \text{monto del valor actual}
+                   \]
+                \end{center}
+        \end{itemize}
+\end{itemize}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Recursos naturales}
+\begin{itemize}
+    \item Los recursos naturales que sean activos de la empresa son activos fijos. Pueden ser recursos biológicos, mineros, agrícolas.
+    \item Se registran a su costo, y son \textbf{activos fijos agotables} por que se agotan al explotarlos. \emph{\textbf{Observación: }la extracción de recursos naturales se le conoce como agotamiento acumulado}.
+    \item Se presentan en el balance general como activos fijos.
+\end{itemize}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{NIIF aplicables a propiedades planta y equipo}
+\begin{itemize}
+    \item NIC 16
+    \item Concepto: Las propiedades, la planta y el equipo son los activos tangibles que posee una empresa para su uso en la producción o suministro de bienes y servicios; para arrendarlos a terceros o para propósitos administrativos; los cuales se espera usar durante más de un periodo económico (un año).
+    \item Reglas aplicables: 
+        \begin{enumerate}
+            \item El costo de los elementos de las propiedades, la planta y el equipo comprende su precio de compra, incluidos los aranceles e impuestos, así como cualquier otro costo relacionado con la puesta en servicio del activo.
+            \item El valor de el activo será el de mercado.
+            \item La base depreciable de las propiedades en planta y equipo , debe ser distribuida en forma sistemática sobre los años que compongan la vida.
+            \item En los estados financieros deberá revelarse, entre otros aspectos, la siguiente información referente a propiedades, planta y equipo:
+                \begin{enumerate}
+                    \item  Las bases de medición utilizadas para determinar el importe en libros bruto
+                    \item Los métodos de depreciación utilizados.
+                    \item  Las vidas útiles o porcentajes de depreciación empleados.
+                \end{enumerate}
+        \end{enumerate}
+\end{itemize}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Análisis financiero}
+Razón financiera de la rotación de activos fijos, sirve para medir la eficiencia de la entidad en cuanto a cómo está utilizando sus activos fijos. Considere la siguiente fórmula para calcular la \textbf{Rotación de activos fijos}. \newline 
+\begin{center}
+   \[
+     \text{Rotación de activo fijo} = \frac{\text{Ventas}}{Activos fijos netos}
+   \]
+\end{center}
+
+
+
+
+\end{document}

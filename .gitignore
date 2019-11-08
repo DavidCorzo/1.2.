@@ -3,5 +3,6 @@
 *.gz 
 *.synctex
 *.fdb_latexmk
-
-
+*.aux
+*.log
+*.toc

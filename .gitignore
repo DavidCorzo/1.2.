@@ -2,8 +2,6 @@
 *.synctex.gz
 *.gz 
 *.synctex
-*.pdf
-
-
+*.fdb_latexmk
 
 

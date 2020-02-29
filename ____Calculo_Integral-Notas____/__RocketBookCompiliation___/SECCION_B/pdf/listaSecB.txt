@@ -1,0 +1,54 @@
+\chapter{ } 
+\includepdf[pages=-,pagecommand={\thispagestyle{plain}}]{pdf/listab.py}
+\chapter{ } 
+\includepdf[pages=-,pagecommand={\thispagestyle{plain}}]{pdf/RB_2019-07-23_13_30_42.pdf}
+\chapter{ } 
+\includepdf[pages=-,pagecommand={\thispagestyle{plain}}]{pdf/RB_2019-07-25_18_29_31.pdf}
+\chapter{ } 
+\includepdf[pages=-,pagecommand={\thispagestyle{plain}}]{pdf/RB_2019-07-30_16_39_35.pdf}
+\chapter{ } 
+\includepdf[pages=-,pagecommand={\thispagestyle{plain}}]{pdf/RB_2019-08-01_11_39_05.pdf}
+\chapter{ } 
+\includepdf[pages=-,pagecommand={\thispagestyle{plain}}]{pdf/RB_2019-08-06_17_52_57.pdf}
+\chapter{ } 
+\includepdf[pages=-,pagecommand={\thispagestyle{plain}}]{pdf/RB_2019-08-08_16_17_39.pdf}
+\chapter{ } 
+\includepdf[pages=-,pagecommand={\thispagestyle{plain}}]{pdf/RB_2019-08-13_19_25_29.pdf}
+\chapter{ } 
+\includepdf[pages=-,pagecommand={\thispagestyle{plain}}]{pdf/RB_2019-08-20_21_52_49.pdf}
+\chapter{ } 
+\includepdf[pages=-,pagecommand={\thispagestyle{plain}}]{pdf/RB_2019-08-23_09_45_27.pdf}
+\chapter{ } 
+\includepdf[pages=-,pagecommand={\thispagestyle{plain}}]{pdf/RB_2019-08-27_18_06_39.pdf}
+\chapter{ } 
+\includepdf[pages=-,pagecommand={\thispagestyle{plain}}]{pdf/RB_2019-08-29_20_21_10.pdf}
+\chapter{ } 
+\includepdf[pages=-,pagecommand={\thispagestyle{plain}}]{pdf/RB_2019-09-03_19_57_35.pdf}
+\chapter{ } 
+\includepdf[pages=-,pagecommand={\thispagestyle{plain}}]{pdf/RB_2019-09-06_10_58_34.pdf}
+\chapter{ } 
+\includepdf[pages=-,pagecommand={\thispagestyle{plain}}]{pdf/RB_2019-09-10_21_26_22.pdf}
+\chapter{ } 
+\includepdf[pages=-,pagecommand={\thispagestyle{plain}}]{pdf/RB_2019-09-12_13_56_12.pdf}
+\chapter{ } 
+\includepdf[pages=-,pagecommand={\thispagestyle{plain}}]{pdf/RB_2019-09-17_19_02_56.pdf}
+\chapter{ } 
+\includepdf[pages=-,pagecommand={\thispagestyle{plain}}]{pdf/RB_2019-09-19_23_11_50.pdf}
+\chapter{ } 
+\includepdf[pages=-,pagecommand={\thispagestyle{plain}}]{pdf/RB_2019-09-24_19_03_48.pdf}
+\chapter{ } 
+\includepdf[pages=-,pagecommand={\thispagestyle{plain}}]{pdf/RB_2019-09-26_21_41_54.pdf}
+\chapter{ } 
+\includepdf[pages=-,pagecommand={\thispagestyle{plain}}]{pdf/RB_2019-10-01_19_31_45.pdf}
+\chapter{ } 
+\includepdf[pages=-,pagecommand={\thispagestyle{plain}}]{pdf/RB_2019-10-03_17_20_20.pdf}
+\chapter{ } 
+\includepdf[pages=-,pagecommand={\thispagestyle{plain}}]{pdf/RB_2019-10-08_21_19_02.pdf}
+\chapter{ } 
+\includepdf[pages=-,pagecommand={\thispagestyle{plain}}]{pdf/RB_2019-10-10_18_43_37.pdf}
+\chapter{ } 
+\includepdf[pages=-,pagecommand={\thispagestyle{plain}}]{pdf/RB_2019-10-15_11_37_21.pdf}
+\chapter{ } 
+\includepdf[pages=-,pagecommand={\thispagestyle{plain}}]{pdf/RB_2019-10-17_12_57_06.pdf}
+\chapter{ } 
+\includepdf[pages=-,pagecommand={\thispagestyle{plain}}]{pdf/RB_2019-10-22_18_59_17.pdf}

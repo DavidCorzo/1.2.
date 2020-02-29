@@ -1,0 +1,545 @@
+PWD d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____
+INPUT C:\Users\DAVIDCORZO\AppData\Local\MiKTeX\2.9\miktex\data\le\pdftex\pdflatex.fmt
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\MatematicaDiscreta-MaterialDeApoyo.tex
+OUTPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\MatematicaDiscreta-MaterialDeApoyo.log
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\book.cls
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\book.cls
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\bk10.clo
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\bk10.clo
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry.sty
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry.sty
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\keyval.sty
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\keyval.sty
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry.cfg
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry.cfg
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphicx.sty
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphicx.sty
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphics.sty
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphics.sty
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\trig.sty
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\trig.sty
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\fontenc.sty
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\fontenc.sty
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pdfpages\pdfpages.sty
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pdfpages\pdfpages.sty
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ifthen.sty
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ifthen.sty
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\calc.sty
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\calc.sty
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\eso-pic\eso-pic.sty
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\eso-pic\eso-pic.sty
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\atbegshi.sty
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\atbegshi.sty
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pdfpages\pppdftex.def
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pdfpages\pppdftex.def
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.sty
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.sty
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\switch.def
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\arabi\bblopts.cfg
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\arabi\bblopts.cfg
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\babel-spanish\spanish.ldf
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\babel-spanish\spanish.ldf
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.def
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\txtbabel.def
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amstext.sty
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amstext.sty
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amscls\amsthm.sty
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amscls\amsthm.sty
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\inputenc.sty
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\inputenc.sty
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\enumitem\enumitem.sty
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\enumitem\enumitem.sty
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\mathtools\mathtools.sty
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\mathtools\mathtools.sty
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\mathtools\mhsetup.sty
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\mathtools\mhsetup.sty
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\import\import.sty
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\import\import.sty
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xifthen\xifthen.sty
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xifthen\xifthen.sty
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ifmtarg\ifmtarg.sty
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ifmtarg\ifmtarg.sty
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\transparent.sty
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\transparent.sty
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\auxhook.sty
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\auxhook.sty
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fancyhdr\fancyhdr.sty
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fancyhdr\fancyhdr.sty
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lipsum\lipsum.sty
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lipsum\lipsum.sty
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3kernel\expl3.sty
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3kernel\expl3.sty
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3kernel\expl3-code.tex
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3kernel\expl3-code.tex
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr10.tfm
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr10.tfm
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr10.tfm
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr10.tfm
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr10.tfm
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr10.tfm
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr10.tfm
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr10.tfm
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr10.tfm
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr10.tfm
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\generic\unicode-data\UnicodeData.txt
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\generic\unicode-data\UnicodeData.txt
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\nul:.tex
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3backend\l3backend-pdfmode.def
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3backend\l3backend-pdfmode.def
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3packages\xparse\xparse.sty
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3packages\xparse\xparse.sty
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lipsum\lipsum.ltd.tex
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lipsum\lipsum.ltd.tex
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\sectsty\sectsty.sty
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\sectsty\sectsty.sty
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\titlesec\titlesec.sty
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\titlesec\titlesec.sty
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\lmodern.sty
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\lmodern.sty
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xpatch\xpatch.sty
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xpatch\xpatch.sty
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\etoolbox\etoolbox.sty
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\etoolbox\etoolbox.sty
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\blindtext\blindtext.sty
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\blindtext\blindtext.sty
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\xspace.sty
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\xspace.sty
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\bookmark.sty
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\bookmark.sty
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\pdfescape.sty
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\pdfescape.sty
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hyperref.sty
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hyperref.sty
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hyperref.sty
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\hobsub-generic.sty
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\hobsub-generic.sty
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\url\url.sty
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\url\url.sty
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\bkm-pdftex.def
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\bkm-pdftex.def
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\settings.tex
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\settings.tex
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\MatematicaDiscreta-MaterialDeApoyo.aux
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\MatematicaDiscreta-MaterialDeApoyo.aux
+OUTPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\MatematicaDiscreta-MaterialDeApoyo.aux
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\ot1lmr.fd
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\ot1lmr.fd
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\rm-lmr10.tfm
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\pdflscape.sty
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\pdflscape.sty
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\lscape.sty
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\lscape.sty
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\nameref.sty
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\nameref.sty
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty
+OUTPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\MatematicaDiscreta-MaterialDeApoyo.pdf
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\rm-lmr17.tfm
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\rm-lmr12.tfm
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\rm-lmr8.tfm
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\rm-lmr6.tfm
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\omllmm.fd
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\omllmm.fd
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\lmmi12.tfm
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\lmmi8.tfm
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\lmmi6.tfm
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\omslmsy.fd
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\omslmsy.fd
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\lmsy10.tfm
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\lmsy8.tfm
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\lmsy6.tfm
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\omxlmex.fd
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\omxlmex.fd
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\lmex10.tfm
+INPUT C:\Users\DAVIDCORZO\AppData\Local\MiKTeX\2.9\pdftex\config\pdftex.map
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\rm-lmr17.tfm
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\jknappen\ec\ecrm2488.tfm
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\MatematicaDiscreta-MaterialDeApoyo.toc
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\MatematicaDiscreta-MaterialDeApoyo.toc
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\rm-lmbx12.tfm
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\rm-lmbx10.tfm
+OUTPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\MatematicaDiscreta-MaterialDeApoyo.toc
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\rm-lmr17.tfm
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\rm-lmbx12.tfm
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\rm-lmbx12.tfm
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\jknappen\ec\ecrm3583.tfm
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\jknappen\ec\ecrm1728.tfm
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\t1lmss.fd
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\t1lmss.fd
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\ec-lmssbx10.tfm
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\lmmi12.tfm
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\lmmi12.tfm
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\lmmi12.tfm
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\lmsy10.tfm
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\lmsy10.tfm
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\lmsy10.tfm
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\EC_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\EC_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\EC_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\EC_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\EC_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\EC_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\EC_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\EC_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\EC_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\EC_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\EC_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\EC_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\EC_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\EC_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\EC_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\EC_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\EC_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\EC_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\EC_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\EC_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\EC_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\EC_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\EC_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\EC_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\EC_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\EC_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\EC_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\EC_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\EC_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\EC_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\EC_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\EC_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\EC_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\EC_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\EC_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\EC_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\EC_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\EC_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\EC_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\EC_3.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\EC_3.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\EC_3.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\EC_3.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\EC_3.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\EC_3.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\EC_3.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\EC_3.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\EC_3.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\EC_3.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\EC_3.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\EC_3.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\EC_3.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\EC_3.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\EC_3.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\EC_3.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\EC_3.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\EC_3.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\EC_3.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\EC_3.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\EC_3.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\EC_3.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\EC_3.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\EC_3.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\EC_3.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\EC_3.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\EC_3.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\EC_3.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\EC_3.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\EC_3.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\EC_3.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\Sumarry.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\Sumarry.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\Sumarry.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\Sumarry.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\Sumarry.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\Sumarry.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\Sumarry.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\Sumarry.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\Sumarry.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\Sumarry.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\Sumarry.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\Sumarry.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\Sumarry.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\Sumarry.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\Sumarry.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\Sumarry.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\Sumarry.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\Sumarry.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\Sumarry.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\Sumarry.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\Sumarry.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\Sumarry.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\Sumarry.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\Sumarry.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\Sumarry.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\Sumarry.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\Sumarry.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\Sumarry.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\Sumarry.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\Sumarry.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\Sumarry.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\Sumarry.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\Sumarry.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\Sumarry.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\Sumarry.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\Sumarry.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\Sumarry.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\Sumarry.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\Sumarry.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\Sumarry.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\Sumarry.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\Sumarry.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\Sumarry.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\Sumarry.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\Sumarry.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\Sumarry.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\Sumarry.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\P_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\P_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\P_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\P_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\P_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\P_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\P_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\P_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\P_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\P_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\P_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\P_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\P_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\P_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\P_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\P_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\P_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\P_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\P_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\P_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\P_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\P_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\P_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\P_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\P_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\P_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\P_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\P_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\P_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\P_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\P_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\P_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\P_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\P_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\P_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\P_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\P_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\P_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\P_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\P_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\P_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\P_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\P_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\P_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\P_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\P_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\P_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\P_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\P_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\P_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\P_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\P_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\P_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\P_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\P_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\P_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\P_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\P_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\P_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\P_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\P_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\P_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\P_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\RS_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\RS_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\RS_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\RS_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\RS_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\RS_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\RS_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\RS_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\RS_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\RS_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\RS_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\RS_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\RS_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\RS_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\RS_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\RS_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\RS_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\RS_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\RS_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\RS_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\RS_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\RS_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\RS_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\RS_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\RS_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\RS_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\RS_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\RS_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\RS_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\RS_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\RS_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\RS_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\RS_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\RS_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\RS_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\RS_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\RS_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\RS_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\RS_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\RS_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\RS_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\RS_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\RS_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\RS_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\RS_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\RS_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\RS_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\F.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\F.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\F.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\F.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\F.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\F.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\F.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\F.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\F.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\F.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\F.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\F.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\F.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\F.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\F.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\F.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\F.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\F.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\F.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\F.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\F.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\F.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\F.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\T_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\T_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\T_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\T_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\T_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\T_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\T_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\T_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\T_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\T_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\T_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\T_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\T_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\T_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\T_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\T_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\T_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\T_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\T_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\T_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\T_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\T_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\T_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\T_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\T_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\T_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\T_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\T_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\T_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\T_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\T_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\T_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\T_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\T_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\T_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\T_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\T_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\T_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\T_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\T_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\T_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\T_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\T_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\T_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\T_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\T_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\T_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\T_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\T_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\T_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\T_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\T_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\T_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\T_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\pdf\T_1.pdf
+INPUT d:\Cursado\02_Semestre-[Julio-Diciembre_de_2019]\______SumaDeCursosUFM1.2______\____Matematica_discreta-Notas____\MatematicaDiscreta-MaterialDeApoyo.aux
+INPUT C:\Users\DAVIDCORZO\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm3583.pk
+INPUT C:\Users\DAVIDCORZO\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm3583.pk
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\enc\dvips\lm\lm-rm.enc
+INPUT C:\Users\DAVIDCORZO\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm2488.pk
+INPUT C:\Users\DAVIDCORZO\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm2488.pk
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmbx10.pfb
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmbx10.pfb
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmbx12.pfb
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmbx12.pfb
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmr10.pfb
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmr10.pfb
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmr12.pfb
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmr12.pfb
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmr17.pfb
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmr17.pfb

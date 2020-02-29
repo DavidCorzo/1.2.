@@ -1,0 +1,44 @@
+\chapter{ } 
+\includepdf[pages=-,pagecommand={\thispagestyle{plain}}]{pdf/RB_2019-07-23_15_22_15.pdf}
+\chapter{ } 
+\includepdf[pages=-,pagecommand={\thispagestyle{plain}}]{pdf/RB_2019-07-25_18_26_27.pdf}
+\chapter{ } 
+\includepdf[pages=-,pagecommand={\thispagestyle{plain}}]{pdf/RB_2019-07-30_16_36_38.pdf}
+\chapter{ } 
+\includepdf[pages=-,pagecommand={\thispagestyle{plain}}]{pdf/RB_2019-08-01_11_35_28.pdf}
+\chapter{ } 
+\includepdf[pages=-,pagecommand={\thispagestyle{plain}}]{pdf/RB_2019-08-06_17_50_20.pdf}
+\chapter{ } 
+\includepdf[pages=-,pagecommand={\thispagestyle{plain}}]{pdf/RB_2019-08-08_16_16_00.pdf}
+\chapter{ } 
+\includepdf[pages=-,pagecommand={\thispagestyle{plain}}]{pdf/RB_2019-08-13_19_21_40.pdf}
+\chapter{ } 
+\includepdf[pages=-,pagecommand={\thispagestyle{plain}}]{pdf/RB_2019-08-20_21_49_11.pdf}
+\chapter{ } 
+\includepdf[pages=-,pagecommand={\thispagestyle{plain}}]{pdf/RB_2019-08-23_09_43_57.pdf}
+\chapter{ } 
+\includepdf[pages=-,pagecommand={\thispagestyle{plain}}]{pdf/RB_2019-08-27_18_00_26.pdf}
+\chapter{ } 
+\includepdf[pages=-,pagecommand={\thispagestyle{plain}}]{pdf/RB_2019-08-27_18_04_49.pdf}
+\chapter{ } 
+\includepdf[pages=-,pagecommand={\thispagestyle{plain}}]{pdf/RB_2019-08-29_20_18_49.pdf}
+\chapter{ } 
+\includepdf[pages=-,pagecommand={\thispagestyle{plain}}]{pdf/RB_2019-09-03_19_54_47.pdf}
+\chapter{ } 
+\includepdf[pages=-,pagecommand={\thispagestyle{plain}}]{pdf/RB_2019-09-06_10_55_15.pdf}
+\chapter{ } 
+\includepdf[pages=-,pagecommand={\thispagestyle{plain}}]{pdf/RB_2019-09-10_21_23_36.pdf}
+\chapter{ } 
+\includepdf[pages=-,pagecommand={\thispagestyle{plain}}]{pdf/RB_2019-09-12_13_52_09.pdf}
+\chapter{ } 
+\includepdf[pages=-,pagecommand={\thispagestyle{plain}}]{pdf/RB_2019-09-17_18_59_28.pdf}
+\chapter{ } 
+\includepdf[pages=-,pagecommand={\thispagestyle{plain}}]{pdf/RB_2019-09-19_23_09_29.pdf}
+\chapter{ } 
+\includepdf[pages=-,pagecommand={\thispagestyle{plain}}]{pdf/RB_2019-09-24_19_01_44.pdf}
+\chapter{ } 
+\includepdf[pages=-,pagecommand={\thispagestyle{plain}}]{pdf/RB_2019-09-26_21_38_27.pdf}
+\chapter{ } 
+\includepdf[pages=-,pagecommand={\thispagestyle{plain}}]{pdf/RB_2019-10-01_19_28_28.pdf}
+\chapter{ } 
+\includepdf[pages=-,pagecommand={\thispagestyle{plain}}]{pdf/RB_2019-10-03_17_17_54.pdf}
